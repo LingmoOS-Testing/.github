@@ -7,7 +7,7 @@ Elysia|maintainer of LingmoDE|[Github](https://github.com/ganyuanzhen),[LingmoOS
 Intro|maintainer of LingmoDE & Ports|[Github](https://github.com/Intro-iu),[LingmoOS Git Server](https://git.lingmo.org/Intro)
 Snowball|maintainer of [New LingmoOS Offical Website](https://lingmoos-frontend-vastseas-projects.vercel.app/)|[Github](https://github.com/SnowballXueQiu),[LingmoOS Git Server](https://git.lingmo.org/Snowball_233)
 PIKACHUIM|maintainer of [LingmoOS Docker Image](https://bbs.lingmo.org/blog/36-lingmo-os-docker-image-yi-jian-shi-yong-lingmoosde-fang-fa)|[Github](https://github.com/PIKACHUIM),[LingmoOS Git Server](https://git.lingmo.org/PIKACHUIM)
-Aninana|Website translation contributor|[Deepin BBS](https://bbs.deepin.org/en/user/296995),[LingmoOS Git Server](https://git.lingmo.org/Aninana)
+Aninana|[Website translation](https://github.com/TeamVastsea/lingmoos-frontend/pull/6/commits/e0b6961a59a049bcdae5fea797716168bd85f2b0) contributor|[Deepin BBS](https://bbs.deepin.org/en/user/296995),[LingmoOS Git Server](https://git.lingmo.org/Aninana)
 chun-awa|~~nothing~~|[Github](https://github.com/chun-awa),[LingmoOS Git Server](https://git.lingmo.org/chun-awa)
 
 ## Other Members(Partial,WIP)
