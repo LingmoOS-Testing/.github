@@ -7,12 +7,12 @@ Elysia|maintainer of LingmoDE|[Github](https://github.com/ganyuanzhen),[LingmoOS
 Intro|maintainer of LingmoDE & Ports|[Github](https://github.com/Intro-iu),[LingmoOS Git Server](https://git.lingmo.org/Intro)
 Snowball|maintainer of [New LingmoOS Offical Website](https://lingmoos-frontend-vastseas-projects.vercel.app/)|[Github](https://github.com/SnowballXueQiu),[LingmoOS Git Server](https://git.lingmo.org/Snowball_233)
 PIKACHUIM|maintainer of [LingmoOS Docker Image](https://bbs.lingmo.org/blog/36-lingmo-os-docker-image-yi-jian-shi-yong-lingmoosde-fang-fa)|[Github](https://github.com/PIKACHUIM),[LingmoOS Git Server](https://git.lingmo.org/PIKACHUIM)
+Aninana|Website translation contributor|[Deepin BBS](https://bbs.deepin.org/en/user/296995),[LingmoOS Git Server](https://git.lingmo.org/Aninana)
 chun-awa|~~nothing~~|[Github](https://github.com/chun-awa),[LingmoOS Git Server](https://git.lingmo.org/chun-awa)
 
 ## Other Members(Partial,WIP)
 **Name**|**Role**|**Links**|
 --------|--------|---------|
-Aninana|Community Member|[Deepin BBS](https://bbs.deepin.org/en/user/296995),[LingmoOS Git Server](https://git.lingmo.org/Aninana)
 lsk-china(aka. Cola Leo)|Community Member|[Github](https://git.lingmo.org/lsk-china),[LingmoOS Git Server](https://git.lingmo.org/lsk-china)
 
 ## History of LingmoOS
