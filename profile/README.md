@@ -3,10 +3,10 @@
 **Name**|**Role**|**Links**|
 --------|--------|---------|
 Floating Dream|Project Leader|[Github](https://github.com/lingmo-dream),[LingmoOS Git Server](https://git.lingmo.org/lingmo)
-Elysia|maintainer of LingmoDE|[Github](https://github.com/ganyuanzhen),[LingmoOS Git Server](https://git.lingmo.org/elysia)
-Intro|maintainer of LingmoDE & Ports|[Github](https://github.com/Intro-iu),[LingmoOS Git Server](https://git.lingmo.org/Intro)
-Snowball|maintainer of [New LingmoOS Offical Website](https://testweb.lingmo.org/)|[Github](https://github.com/SnowballXueQiu),[LingmoOS Git Server](https://git.lingmo.org/Snowball_233)
-PIKACHUIM|maintainer of [LingmoOS Docker Image](https://bbs.lingmo.org/blog/36-lingmo-os-docker-image-yi-jian-shi-yong-lingmoosde-fang-fa)|[Github](https://github.com/PIKACHUIM),[LingmoOS Git Server](https://git.lingmo.org/PIKACHUIM)
+Elysia|Maintainer of LingmoDE|[Github](https://github.com/ganyuanzhen),[LingmoOS Git Server](https://git.lingmo.org/elysia)
+Intro|Maintainer of LingmoDE & Ports|[Github](https://github.com/Intro-iu),[LingmoOS Git Server](https://git.lingmo.org/Intro)
+Snowball|Maintainer of [New LingmoOS Offical Website](https://testweb.lingmo.org/)|[Github](https://github.com/SnowballXueQiu),[LingmoOS Git Server](https://git.lingmo.org/Snowball_233)
+PIKACHUIM|Maintainer of [LingmoOS Docker Image](https://bbs.lingmo.org/blog/36-lingmo-os-docker-image-yi-jian-shi-yong-lingmoosde-fang-fa)|[Github](https://github.com/PIKACHUIM),[LingmoOS Git Server](https://git.lingmo.org/PIKACHUIM)
 
 ## Other Developers(Partial)
 **Name**|**Role**|**Links**|
