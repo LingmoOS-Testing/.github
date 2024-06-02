@@ -26,4 +26,4 @@ lsk-china(aka. Cola Leo)|Community Member|[Github](https://git.lingmo.org/lsk-ch
 - Martin Chan(in LingmoOS QQ Group), provide the `Lingmo OS` name.
 
 ## History
-See [HISTORY](./HISTORY.md).
+See [HISTORY.md](./HISTORY.md).
