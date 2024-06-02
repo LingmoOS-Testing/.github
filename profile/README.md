@@ -20,10 +20,10 @@ chun-awa|~~nothing~~|[Github](https://github.com/chun-awa),[LingmoOS Git Server]
 --------|--------|---------|
 lsk-china(aka. Cola Leo)|Community Member|[Github](https://git.lingmo.org/lsk-china),[LingmoOS Git Server](https://git.lingmo.org/lsk-china)
 
+## History
+See [HISTORY.md](./HISTORY.md).
+
 ## Acknowledgements
 - [CutefishOS](https://github.com/cutefishos)
 - [TeamVastsea](https://github.com/TeamVastsea), provide [the new website](https://testweb.lingmo.org/).
 - Martin Chan(in LingmoOS QQ Group), provide the `Lingmo OS` name.
-
-## History
-See [HISTORY.md](./HISTORY.md).
