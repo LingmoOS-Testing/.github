@@ -11,8 +11,8 @@ PIKACHUIM|Maintainer of [LingmoOS Docker Image](https://bbs.lingmo.org/blog/36-l
 ## Other Developers(Partial)
 **Name**|**Role**|**Links**|
 --------|--------|---------|
-Aninana|[Website translation](https://github.com/TeamVastsea/lingmoos-frontend/pull/6/commits/e0b6961a59a049bcdae5fea797716168bd85f2b0) contributor|[Deepin BBS](https://bbs.deepin.org/en/user/296995),[LingmoOS Git Server](https://git.lingmo.org/Aninana)
-zrll|Developer of [the new website](https://testweb.lingmo.org/)|[Github](https://github.com/zrll12)
+Aninana|[Website translation](https://github.com/TeamVastsea/lingmoos-frontend/pull/6/commits/e0b6961a59a049bcdae5fea797716168bd85f2b0) contributor|[Github](https://github.com/Aninana),[LingmoOS Git Server](https://git.lingmo.org/Aninana)
+zrll|Developer of [the new website](https://testweb.lingmo.org/)|[Github](https://github.com/zrll12),[LingmoOS Git Server](https://git.lingmo.org/zrll)
 chun-awa|~~nothing~~|[Github](https://github.com/chun-awa),[LingmoOS Git Server](https://git.lingmo.org/chun-awa)
 
 ## Other Members(Partial)
