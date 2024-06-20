@@ -84,5 +84,5 @@ Snowball joined in the LingmoOS Development Team
 ## 2024-05-29
 LingmoOS New Website: <https://testweb.lingmo.org>
 
-## 2024-*unknown*
-LingmoOS Git Server closed down due to the lack of money
+## 2024-06-*unknown*
+LingmoOS Git Server closed down
