@@ -82,4 +82,7 @@ Started to port LingmoOS to Arch Linux: <https://github.com/LingmoOS-Testing/lin
 Snowball joined in the LingmoOS Development Team
 
 ## 2024-05-29
-LingmoOS New Website: <https://git.lingmo.org/lingmoos-website/lingmoos-frontend/-/commit/6eadb59e52144f0cbc442eb3eb6db8a82566baad>
+LingmoOS New Website: <https://testweb.lingmo.org>
+
+## 2024-*unknown*
+LingmoOS Git Server closed down due to the lack of money
